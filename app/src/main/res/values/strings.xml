@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClipBoardExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="intent_copy_str">Intents</string>
+    <string name="content_copy_str">Complex_Data</string>
+    <string name="text_copy">Text</string>
+    <string name="copy_button">Copy</string>
+    <string name="paste_button">Paste</string>
+    <string name="title_activity_text_copy">TextCopy</string>
+    <string name="text_to_copy">Text Entered here will be copied</string>
+    <string name="paste_tv_hint">On paste this text will change</string>
+
+</resources>
