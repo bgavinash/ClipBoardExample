@@ -4,10 +4,15 @@
     <string name="intent_copy_str">Intents</string>
     <string name="content_copy_str">Complex_Data</string>
     <string name="text_copy">Text</string>
+    <string name="intent_copy">Intent Copy</string>
     <string name="copy_button">Copy</string>
     <string name="paste_button">Paste</string>
     <string name="title_activity_text_copy">TextCopy</string>
+    <string name="title_activity_intent">Intent Copy</string>
     <string name="text_to_copy">Text Entered here will be copied</string>
+    <string name="intent_copy_expanation">Copy Button will copy the intent onto clip board.Paste button will paste the intent. Launch intent button will execute the intent pasted from the Clipboard</string>
     <string name="paste_tv_hint">On paste this text will change</string>
+    <string name="launch_button_hint">launch button will be activated only when a valid intent is pasted. Once enabled it should open Main activity screen</string>
+    <string name="launch_button_label">Launch_Intent</string>
 
 </resources>

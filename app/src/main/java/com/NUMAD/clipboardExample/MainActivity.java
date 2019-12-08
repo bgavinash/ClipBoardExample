@@ -50,5 +50,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openIntentCopyActivity(View view) {
+        startActivity(new Intent(MainActivity.this, IntentActivity.class));
     }
 }
